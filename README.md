@@ -23,11 +23,12 @@
 - [Security Considerations](#security-considerations)
 - [Anti-Patterns](#anti-patterns)
 - [Documentation](#documentation)
-- [Video Demonstration](#video-demonstration)
+- [Video Demonstration](https://streamable.com/epyr2u) Privacy-Preserving Medical Research Platform.mp4
 - [Bounty Requirements Checklist](#bounty-requirements-checklist)
 - [Contributing](#contributing)
 - [License](#license)
 - [Resources](#resources)
+- [Live](https://privacy-preserving-medical-research.vercel.app/)
 
 ## Overview
 
