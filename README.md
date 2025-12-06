@@ -28,7 +28,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Resources](#resources)
-- [Live](https://privacy-preserving-medical-research.vercel.app/)
+- [Live Demo](https://privacy-preserving-medical-research.vercel.app/)
 
 ## Overview
 
