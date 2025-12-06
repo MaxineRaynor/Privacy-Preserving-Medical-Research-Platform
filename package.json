@@ -1,0 +1,31 @@
+{
+  "name": "confidential-medical-research",
+  "version": "1.0.0",
+  "description": "Privacy-preserving medical research platform using FHE",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js --network sepolia",
+    "test": "npx hardhat test",
+    "node": "npx hardhat node",
+    "clean": "npx hardhat clean"
+  },
+  "keywords": [
+    "blockchain",
+    "fhe",
+    "medical",
+    "research",
+    "privacy",
+    "zama"
+  ],
+  "author": "Medical Research Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.0"
+  },
+  "dependencies": {
+    "@fhevm/solidity": "^0.1.0",
+    "dotenv": "^16.0.0"
+  }
+}
