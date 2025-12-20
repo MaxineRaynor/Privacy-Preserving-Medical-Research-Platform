@@ -1,0 +1,22 @@
+{
+  "title": "Confidential Medical Research - FHEVM Example",
+  "description": "Privacy-preserving medical research platform using Fully Homomorphic Encryption",
+  "author": "Medical Research Team",
+  "language": "en",
+  "gitbook": "3.2.3",
+  "root": "./docs",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "theme-default"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "styles": {
+        "website": "styles/website.css"
+      }
+    }
+  }
+}

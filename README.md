@@ -23,7 +23,7 @@
 - [Security Considerations](#security-considerations)
 - [Anti-Patterns](#anti-patterns)
 - [Documentation](#documentation)
-- [Video Demonstration](https://streamable.com/epyr2u) Privacy-Preserving Medical Research Platform.mp4
+- [Video Demonstration](https://youtu.be/fHgG-3pOghE) Privacy-Preserving Medical Research Platform.mp4
 - [Bounty Requirements Checklist](#bounty-requirements-checklist)
 - [Contributing](#contributing)
 - [License](#license)
